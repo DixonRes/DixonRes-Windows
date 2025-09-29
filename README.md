@@ -31,13 +31,6 @@ If you have pre-built binaries, you need:
 
 ## Building from Source
 
-### Prerequisites
-
-Install MinGW-w64 cross-compiler on Linux:
-```bash
-sudo apt-get install mingw-w64
-```
-
 ### Build Process
 
 Run the provided build script:
