@@ -27,7 +27,7 @@ If you have pre-built binaries, you need:
 - `dixon.dll` - Math computation library
 - `dixon.exe` - Command-line version (optional)
 - FLINT/GMP/MPFR DLLs in the same directory or in `dll/` subdirectory
-- You may still need libopenblas.dll, which is not included here.
+- You may still need libopenblas.dll, which is not included here
 
 ## Building from Source
 
